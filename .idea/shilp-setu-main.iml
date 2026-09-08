@@ -2,7 +2,7 @@
 <module external.system.id="pyproject.toml" type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/Shilp_Setu-main">
-      <sourceFolder url="file://$MODULE_DIR$/Shilp_Setu-main/src" />
+      <sourceFolder url="file://$MODULE_DIR$/Shilp_Setu-main/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Shilp_Setu-main/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="D:\apk\Pycharm\pycharm\Shilp_Setu-main\Shilp_Setu-main\.venv" jdkType="Python SDK" />
