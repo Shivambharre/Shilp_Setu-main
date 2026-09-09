@@ -56,7 +56,3 @@ def delete_task(task_id:int,db:Session):
 
     return{"Status":"Task Deleted Sucessfully"}
 
-
-
-        
-     

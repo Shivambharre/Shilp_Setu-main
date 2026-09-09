@@ -14,6 +14,7 @@ def create_task(body:TaskSchema,db=Depends(get_db)):
 
 
 
+
 @task_routes.get("/all_tasks",status_code=status.HTTP_200_OK)
 def get_all_tasks(db=Depends(get_db)):
     return controller.get_tasks(db)
