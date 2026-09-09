@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$/Shilp_Setu-main">
       <sourceFolder url="file://$MODULE_DIR$/Shilp_Setu-main/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Shilp_Setu-main/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Shilp_Setu-main/PYTHON_CODE_EXPLANATION.txt" />
     </content>
     <orderEntry type="jdk" jdkName="D:\apk\Pycharm\pycharm\Shilp_Setu-main\Shilp_Setu-main\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

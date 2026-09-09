@@ -5,7 +5,7 @@ from fastapi import HTTPException
 from pwdlib import PasswordHash
 
 
-get_password_hash=PasswordHash()
+get_password_hash=PasswordHash.recommended()
 
 def register(body:UserSchema,db:Session):
     ##1) user name Validation 
